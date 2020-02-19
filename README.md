@@ -2,6 +2,8 @@
 ## Deep Learning Solution !
 :trollface: :sunglasses: 
 
+BDW Solution is for 2018 course !! Current questions may not exactly be the same but underlying concept may be!!
+
 >IIT Madras :Mitesh M. Khapra :fire:	
 
 - :point_right:[WEEK ONE](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT1_SOLUTIONS.pdf)
