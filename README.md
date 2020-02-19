@@ -1,6 +1,6 @@
 # NPTELDeepLearningAssingnment
 ## Deep Learning Solution !
-:trollface: :trollface:   
+:trollface: :sunglasses: 
 
 >IIT Madras :Mitesh M. Khapra :fire:	
 
@@ -28,14 +28,14 @@
 - :point_right:[WEEK TWELVE](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT12_SOLUTIONS.pdf)
  
  
- **Show some :heart: by leaving a :star: at this page! ** </br>
+ **Show some :heart: by leaving a :star: at this page!**  </br>
  
  **Follow My Page [INSTAGRAM](https://www.instagram.com/bdcoe/)** </br>
 
 
 
 
-[![HitCount](http://hits.dwyl.com/bdcoe/https://githubcom/aryanc55/NPTELDeepLearningAssingnment.svg)](http://hits.dwyl.com/bdcoe/https://githubcom/aryanc55/NPTELDeepLearningAssingnment) </br>
+[![HitCount](http://hits.dwyl.com/bdcoe/https://githubcom/aryanc55/NPTELDeepLearningAssingnment.svg)](http://hits.dwyl.com/bdcoe/https://githubcom/aryanc55/NPTELDeepLearningAssingnment)   </br>
 
 
--PS:Why i created this repo? Wanted to put alot of emozi's in a place and help my hardworking collegues!!!-
+--PS:Why i created this repo? Wanted to put alot of emozi's in a place and help my hardworking collegues!!!--
