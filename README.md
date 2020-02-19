@@ -8,22 +8,23 @@
 
 - :point_right:[WEEK TWO](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT2_SOLUTIONS.pdf)
 
-- :point_right:[WEEK THREE](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT3_SOLUTIONS.pdf)
+- :point_right:[WEEK THREE](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT3_SOLUTION.pdf)
    
-- :point_right:[WEEK FOUR](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT4_SOLUTIONS.pdf)
+- :point_right:[WEEK FOUR](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT4_SOLUTION.pdf)
+
 - :point_right:[WEEK FIVE](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT5_SOLUTIONS.pdf)
 
 - :point_right:[WEEK SIX](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT6_SOLUTIONS.pdf)
 
-- :point_right:[WEEK SEVEN](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT7_SOLUTIONS.pdf)
+- :point_right:[WEEK SEVEN](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT7_SOLUTION.pdf)
 
 - :point_right:[WEEK EIGHT](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT8_SOLUTIONS.pdf)
   
 - :point_right:[WEEK NINE](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT9_SOLUTIONS.pdf)
    
-- :point_right:[WEEK TEN](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT10_SOLUTIONS.pdf)
+- :point_right:[WEEK TEN](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_Assignment10_solutions.pdf)
   
-- :point_right:[WEEK ELEVEN](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT11_SOLUTIONS.pdf)   
+- :point_right:[WEEK ELEVEN](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT11_SOLUTION.pdf)   
 
 - :point_right:[WEEK TWELVE](https://github.com/aryanc55/NPTELDeepLearningAssingnment/blob/master/DEEP_LEARNING_ASSIGNMENT12_SOLUTIONS.pdf)
  
