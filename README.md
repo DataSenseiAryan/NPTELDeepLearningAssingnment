@@ -38,4 +38,4 @@
 [![HitCount](http://hits.dwyl.com/aryanc55/https://githubcom/aryanc55/NPTELDeepLearningAssingnment.svg)](http://hits.dwyl.com/aryanc55/https://githubcom/aryanc55/NPTELDeepLearningAssingnment) </br>
 
 
---PS:Why i created this repo? Wanted to put alot of emozi's in a place and help my hardworking collegues!!!--
+*PS:Why i created this repo? Wanted to put alot of emozi's in a place and help my hardworking collegues!!!*
